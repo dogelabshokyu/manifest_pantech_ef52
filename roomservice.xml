@@ -10,5 +10,5 @@
   <project name="sky-vega-dev-team/vendor_pantech" path="vendor/pantech" remote="github" revision="lineage-15.1" />
   <!-- ETC -->
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 </manifest>
